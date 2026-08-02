@@ -23,11 +23,26 @@ This repository includes:
 
 # Download the Complete Worksheet Collection
 
-The complete worksheet series (Worksheets W1–W14) is available here:
+All 14 worksheets from **The Calculus Code** are available below as printable PDFs. Click any title to download.
 
-➡ **worksheets → Complete-Worksheet-Series**
+| # | Worksheet | Download |
+|---|-----------|----------|
+| 1 | The Big Secret | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_01_The_Big_Secret.pdf) |
+| 2 | Functions | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_02_Functions.pdf) |
+| 3 | Instant Speed | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_03_Instant_Speed.pdf) |
+| 4 | Slope | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_04_Slope.pdf) |
+| 5 | The Power Rule | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_05_Power_Rule.pdf) |
+| 6 | The Odometer Trick | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_06_Odometer_Trick.pdf) |
+| 7 | Area Under the Curve | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_07_Area_Under_Curve.pdf) |
+| 8 | The Fundamental Theorem | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_08_Fundamental_Theorem.pdf) |
+| 9 | e^x — The Super Function | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_09_Exponential_Function.pdf) |
+| 10 | Sine and Cosine | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_10_Sine_and_Cosine.pdf) |
+| 11 | Optimization | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_11_Optimization.pdf) |
+| 12 | Proofs | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_12_Proofs.pdf) |
+| 13 | Mixed Review | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_13_Mixed_Review.pdf) |
+| 14 | Epilogue — The Horizon | [Download PDF](https://raw.githubusercontent.com/tariqfnz1-a11y/the-calculus-code-worksheets/main/worksheets/Calculus_Worksheet_14_Epilogue.pdf) |
 
-The collection contains fourteen printable PDF worksheets covering the complete learning journey presented in the book.
+**To print:** download the PDF, open in Adobe Acrobat Reader, select **Actual Size (100%)**, and print in Portrait orientation.
 
 ---
 
