@@ -46,54 +46,7 @@ All 14 worksheets from **The Calculus Code** are available below as printable PD
 
 ---
 
-# Browse Worksheets by Topic
 
-The repository is also organized into topic folders.
-
-## Limits
-
-Topics include:
-
-- Understanding Limits
-- Evaluating Limits
-- Graphical Limits
-- One-sided Limits
-
----
-
-## Derivatives
-
-Topics include:
-
-- Instantaneous Rate of Change
-- Tangent Lines
-- Power Rule
-- Product Rule
-- Chain Rule
-
----
-
-## Integrals
-
-Topics include:
-
-- Antiderivatives
-- Area Under Curves
-- Definite Integrals
-- Fundamental Theorem of Calculus
-
----
-
-## Applications
-
-Topics include:
-
-- Motion
-- Optimization
-- Mathematical Modelling
-- Real-Life Problems
-
----
 
 # Printing Instructions
 
