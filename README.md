@@ -1,73 +1,133 @@
 # The Calculus Code Worksheets
 
-## Free Printable Calculus Worksheets for Students and Teachers
+## Official Companion Repository
 
-Welcome to the official companion resource repository for **The Calculus Code Worksheets**.
+Welcome to the official GitHub repository for **The Calculus Code Worksheets**.
 
-This repository provides free downloadable PDF worksheets designed to help students understand calculus concepts through guided practice, problem-solving, and visual learning.
+This repository accompanies the book by **Tariq Mehmood (T.M. Bhinder)** and provides free printable PDF worksheets, organized practice material, and companion resources for students and teachers.
 
-## Who Are These Worksheets For?
+---
 
-These worksheets are suitable for:
+# What You Will Find Here
 
-- High school calculus students
-- College beginners
-- Self-learners
-- Teachers and tutors
-- Homeschool learners
+This repository includes:
 
-## Worksheet Collection
+- Printable PDF worksheets
+- Practice exercises
+- Revision materials
+- Classroom resources
+- Self-study worksheets
+- Companion materials for the book
 
-The worksheets cover major calculus topics:
+---
 
-### Limits
+# Download the Complete Worksheet Collection
+
+The complete worksheet series (Worksheets W1–W14) is available here:
+
+➡ **worksheets → Complete-Worksheet-Series**
+
+The collection contains fourteen printable PDF worksheets covering the complete learning journey presented in the book.
+
+---
+
+# Browse Worksheets by Topic
+
+The repository is also organized into topic folders.
+
+## Limits
+
+Topics include:
 
 - Understanding Limits
 - Evaluating Limits
-- Graphical Interpretation of Limits
+- Graphical Limits
+- One-sided Limits
 
-### Derivatives
+---
 
-- Introduction to Derivatives
-- Derivative Rules Practice
-- Applications of Derivatives
+## Derivatives
 
-### Integrals
+Topics include:
 
-- Understanding Integration
+- Instantaneous Rate of Change
+- Tangent Lines
+- Power Rule
+- Product Rule
+- Chain Rule
+
+---
+
+## Integrals
+
+Topics include:
+
+- Antiderivatives
 - Area Under Curves
-- Basic Integration Practice
+- Definite Integrals
+- Fundamental Theorem of Calculus
 
-### Applications
+---
 
-- Motion Problems
-- Optimization Problems
-- Real-Life Calculus Applications
+## Applications
 
-## How to Download Worksheets
+Topics include:
 
-1. Open the worksheet folder.
-2. Click the required PDF file.
-3. Click the Download button.
-4. Print and use for practice.
+- Motion
+- Optimization
+- Mathematical Modelling
+- Real-Life Problems
 
-## For Teachers
+---
 
-Teachers may use these worksheets for:
+# Printing Instructions
 
-- Classroom practice
-- Homework assignments
-- Revision activities
-- Mathematics enrichment
+For the best experience:
 
-## About the Author
+1. Download the desired worksheet.
+2. Open it using Adobe Acrobat Reader.
+3. Print on A4 paper.
+4. Select **Actual Size (100%)**.
+5. Print in Portrait orientation unless otherwise indicated.
 
-Created by **Tariq Mehmood (T.M. Bhinder)**
+---
 
-Educational manager, mathematics educator, and author of learning resources.
+# Intended Audience
 
-## License
+These worksheets are suitable for:
 
-These educational materials are provided for personal learning and classroom use.
+- High school students
+- College students
+- Teachers
+- Tutors
+- Homeschool educators
+- Independent learners
 
-Please credit the author when sharing.
+---
+
+# About the Author
+
+**Tariq Mehmood (T.M. Bhinder)**
+
+Educational Manager  
+Mathematics Educator  
+Author  
+AI in Education Advocate
+
+---
+
+# License
+
+These worksheets may be:
+
+✔ Downloaded
+
+✔ Printed
+
+✔ Used in classrooms
+
+✔ Used for personal study
+
+Commercial redistribution or resale is prohibited without written permission.
+
+© 2026 Tariq Mehmood
